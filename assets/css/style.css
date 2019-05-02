@@ -4,3 +4,10 @@ body{
 .navbar-dark{
   background-color: #660066;
 }
+p{
+  text-align: center;
+  font-weight: 400;
+}
+hr{
+  background-color: #000000;
+}
